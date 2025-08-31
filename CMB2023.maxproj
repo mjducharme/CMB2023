@@ -1,9 +1,9 @@
 {
-	"name" : "AudioSensor2",
+	"name" : "CMB2023",
 	"version" : 1,
 	"creationdate" : 3725284306,
-	"modificationdate" : 3766266452,
-	"viewrect" : [ 18.0, 207.0, 603.0, 965.0 ],
+	"modificationdate" : 3839509541,
+	"viewrect" : [ 1132.0, 225.0, 603.0, 965.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -11,37 +11,23 @@
 	"contents" : 	{
 		"patchers" : 		{
 			"faderbank.maxpat" : 			{
-				"kind" : "patcher"
+				"kind" : "patcher",
+				"local" : 1
 			}
 ,
 			"padsbank.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Dropbox/DMA Year 5/CMB New Max Patch Stuff",
-					"projectrelativepath" : "../../../../Dropbox/DMA Year 5/CMB New Max Patch Stuff"
-				}
-
+				"local" : 1
 			}
 ,
 			"remsbank.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Dropbox/DMA Year 5/CMB New Max Patch Stuff",
-					"projectrelativepath" : "../../../../Dropbox/DMA Year 5/CMB New Max Patch Stuff"
-				}
-
+				"local" : 1
 			}
 ,
 			"dialbank.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Dropbox/DMA Year 5/CMB New Max Patch Stuff",
-					"projectrelativepath" : "../../../../Dropbox/DMA Year 5/CMB New Max Patch Stuff"
-				}
-
+				"local" : 1
 			}
 ,
 			"AudioSensors.maxpat" : 			{
@@ -60,362 +46,202 @@
 		"media" : 		{
 			"CMB Intro Mockup.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max"
-				}
-
+				"local" : 1
 			}
 ,
 			"CMB Section B Live Instruments Only.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max"
-				}
-
+				"local" : 1
 			}
 ,
 			"CMB Section C Live Instruments Only.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max"
-				}
-
+				"local" : 1
 			}
 ,
 			"CMB Section D Live Instruments Only - Mockup.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max"
-				}
-
+				"local" : 1
 			}
 ,
 			"CMB-ending-instrument-stems - Cello.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/CMB-ending-instruments"
-				}
-
+				"local" : 1
 			}
 ,
 			"CMB-ending-instrument-stems - Clarinet.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/CMB-ending-instruments"
-				}
-
+				"local" : 1
 			}
 ,
 			"CMB-ending-instrument-stems - Flute.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/CMB-ending-instruments"
-				}
-
+				"local" : 1
 			}
 ,
 			"CMB-ending-instrument-stems - Percussion.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/CMB-ending-instruments"
-				}
-
+				"local" : 1
 			}
 ,
 			"CMB-ending-instrument-stems - Piano.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/CMB-ending-instruments"
-				}
-
+				"local" : 1
 			}
 ,
 			"CMB-ending-instrument-stems - Violin.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/CMB-ending-instruments"
-				}
-
+				"local" : 1
 			}
 ,
 			"SectionB-mockupInputIntoMax-piano.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max"
-				}
-
+				"local" : 1
 			}
 ,
 			"Standing Wave CMB Recording Section A Only.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max"
-				}
-
+				"local" : 1
 			}
 ,
 			"newair-clip-1.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/mega8player"
-				}
-
+				"local" : 1
 			}
 ,
 			"newair-clip-2.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/mega8player"
-				}
-
+				"local" : 1
 			}
 ,
 			"newair-clip-3.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/mega8player"
-				}
-
+				"local" : 1
 			}
 ,
 			"newair-clip-4.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/mega8player"
-				}
-
+				"local" : 1
 			}
 ,
 			"newair-clip-5.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/mega8player"
-				}
-
+				"local" : 1
 			}
 ,
 			"newair-clip-6.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/mega8player"
-				}
-
+				"local" : 1
 			}
 ,
 			"aamarktree-effects-slice-1.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/mega8player"
-				}
-
+				"local" : 1
 			}
 ,
 			"aamarktree-effects-slice-2.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/mega8player"
-				}
-
+				"local" : 1
 			}
 ,
 			"aamarktree-effects-slice-3.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/mega8player"
-				}
-
+				"local" : 1
 			}
 ,
 			"aamarktree-effects-slice-4.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/mega8player"
-				}
-
+				"local" : 1
 			}
 ,
 			"aamarktree-effects-slice-5.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/mega8player"
-				}
-
+				"local" : 1
 			}
 ,
 			"chord-01.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-A-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"chord-02.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-A-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"chord-03.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-A-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"chord-04.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-A-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"chord-05.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-A-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"chord-06.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-A-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"chord-07.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-A-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"chord-08.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-A-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"chord-09.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-A-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"chord-10.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-A-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"chord-11.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-A-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"chord-12.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-A-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"chord-13.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-A-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"Sound Particles - Section D Live Electronics Solo - 8 Channel - Part 1.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-D-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"Sound Particles - Section D Live Electronics Solo - 8 Channel - Part 2.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-D-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"Sound Particles - Section D Thematic Section - 8 Channel - Spectrum 1.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-D-bed-tracks"
-				}
-
+				"local" : 1
 			}
 ,
 			"Sound Particles - Section D Thematic Section - 8 Channel - Spectrum 2 - opening cresc removed.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "D:/CMB Live Electronics Recordings from Max/section-D-bed-tracks"
-				}
-
+				"local" : 1
 			}
 
 		}
@@ -427,42 +253,22 @@
 		"data" : 		{
 			"matrixlabelscoll.txt" : 			{
 				"kind" : "textfile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Dropbox/DMA Year 5/CMB New Max Patch Stuff",
-					"projectrelativepath" : "../../../../Dropbox/DMA Year 5/CMB New Max Patch Stuff"
-				}
-
+				"local" : 1
 			}
 ,
 			"megadata1.txt" : 			{
 				"kind" : "textfile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Dropbox/DMA Year 5/CMB New Max Patch Stuff",
-					"projectrelativepath" : "../../../../Dropbox/DMA Year 5/CMB New Max Patch Stuff"
-				}
-
+				"local" : 1
 			}
 ,
 			"yk.pattr.delay16BP.json" : 			{
 				"kind" : "json",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Documents/Max 8/random patches",
-					"projectrelativepath" : "../../random patches"
-				}
-
+				"local" : 1
 			}
 ,
 			"matrix.maxpresets" : 			{
 				"kind" : "maxdatafile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Dropbox/DMA Year 5/CMB New Max Patch Stuff",
-					"projectrelativepath" : "../../../../Dropbox/DMA Year 5/CMB New Max Patch Stuff"
-				}
-
+				"local" : 1
 			}
 
 		}

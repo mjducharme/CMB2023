@@ -1,0 +1,69 @@
+{
+	"pattrstorage" : 	{
+		"name" : "yk.pattr.delay16BP",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"ampDistr" : [ 0.03 ],
+					"fb" : [ 0.0 ],
+					"first" : [ 1000.0 ],
+					"gateThresh" : [ -60.0 ],
+					"inGain" : [ 1.0 ],
+					"mix" : [ 1.0 ],
+					"outGain" : [ 0.0 ],
+					"rand" : [ 1 ],
+					"randRange" : [ 20.0 ],
+					"range" : [ 2000.0 ],
+					"switch" : [ 1 ],
+					"taps" : [ 8 ],
+					"timeDistr" : [ -0.2 ],
+					"randCtrl::RC1stTapMax" : [ 5960.0 ],
+					"randCtrl::RC1stTapMin" : [ 40.0 ],
+					"randCtrl::RCFbMax" : [ 1.0 ],
+					"randCtrl::RCFbMin" : [ 0.0 ],
+					"randCtrl::RCRandRangeMax" : [ 12000.0 ],
+					"randCtrl::RCRandRangeMin" : [ 0.0 ],
+					"randCtrl::RCRangeMax" : [ 5960.0 ],
+					"randCtrl::RCRangeMin" : [ 40.0 ],
+					"randCtrl::RCTapsMax" : [ 16 ],
+					"randCtrl::RCTapsMin" : [ 1 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"ampDistr" : [ -0.011 ],
+					"fb" : [ 0.0 ],
+					"first" : [ 1000.0 ],
+					"gateThresh" : [ -60.0 ],
+					"inGain" : [ 1.0 ],
+					"mix" : [ 1.0 ],
+					"outGain" : [ 0.0 ],
+					"rand" : [ 1 ],
+					"randRange" : [ 20.0 ],
+					"range" : [ 2000.0 ],
+					"switch" : [ 1 ],
+					"taps" : [ 8 ],
+					"timeDistr" : [ -0.34 ],
+					"randCtrl::RC1stTapMax" : [ 5960.0 ],
+					"randCtrl::RC1stTapMin" : [ 40.0 ],
+					"randCtrl::RCFbMax" : [ 1.0 ],
+					"randCtrl::RCFbMin" : [ 0.0 ],
+					"randCtrl::RCRandRangeMax" : [ 12000.0 ],
+					"randCtrl::RCRandRangeMin" : [ 0.0 ],
+					"randCtrl::RCRangeMax" : [ 5960.0 ],
+					"randCtrl::RCRangeMin" : [ 40.0 ],
+					"randCtrl::RCTapsMax" : [ 16 ],
+					"randCtrl::RCTapsMin" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
